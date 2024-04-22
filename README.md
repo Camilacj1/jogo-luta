@@ -1,1 +1,3 @@
 # jogo-luta
+
+*FEITO PARA TRABALHO ESCOLAR*
